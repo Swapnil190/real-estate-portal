@@ -72,29 +72,7 @@ A full-stack web application for real estate buyers to browse properties across 
 | Axios | HTTP client |
 | CSS-in-JS | Styling |
 
-## 📁 Project Structure
-real-estate-portal/
-│
-├── backend/
-│ ├── server.js # Main backend server (API endpoints)
-│ └── package.json # Backend dependencies
-│
-├── frontend/
-│ ├── public/
-│ │ └── index.html # HTML template
-│ ├── src/
-│ │ ├── App.js # Main React component with routing
-│ │ ├── index.js # React entry point
-│ │ ├── api.js # Axios configuration with token interceptor
-│ │ └── pages/
-│ │ ├── Login.js # Login page component
-│ │ ├── Register.js # Registration page component
-│ │ └── Dashboard.js # Dashboard with properties & favourites
-│ └── package.json # Frontend dependencies
-│
-└── README.md # This file
 
-text
 
 ## 🚀 Installation & Setup
 
